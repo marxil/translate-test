@@ -20,32 +20,32 @@
 반응형 시스템에 의하면, 모든 입력에는 동작 혹은 피드백이 뒤따릅니다. 커뮤니케이션 디자인과 인터랙션 디자인의 가장 본질적인 차이는 커뮤니케이션 디자인은 우리가 어떤 시도를 해도 (만지고, 흔들고, 찌르거나, 쳐다보거나 냄새맡는 것 등) 응답하지 않는다는 점이죠.
 
 
-(댄 새퍼의 인터랙션을 위한 디자인 이란 책을 추천합니다. 기초를 굉장히 명쾌하게 보여주는 책입니다.)
+(댄 새퍼의 인터랙션을 위한 디자인(http://www.designingforinteraction.com/designingforinteraction2_sample.pdf) 이란 책을 추천합니다. 기초를 굉장히 명쾌하게 보여주는 책입니다.)
 1*pLJs-eY4_BHhAztqxuxgvA.jpeg
 인터랙션 디자인은 경험 디자인의 일부분입니다.
 
 하단에 링크된 짧은 무료 Udacity 코스는 좋은 기초 강좌입니다.  IxD의 기초 용어들과 기본적 개념들을 배워보세요.
 
-Intro to Design of Everyday THings | UdacityThis course will provide you with the insight to start recognizing the role of design in today's world, and to start…www.udacity.com
+Intro to Design of Everyday THings | UdacityThis course will provide you with the insight to start recognizing the role of design in today's world, and to start…www.udacity.com(https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 
 페이스북과 공동제작한 Udacity 코스도 있습니다.
 
-Mobile Design and Usability for iOS | UdacityIn this course, taught in collaboration with Facebook, you'll learn how to design an intuitive, user-centered mobile…www.udacity.com
+Mobile Design and Usability for iOS | UdacityIn this course, taught in collaboration with Facebook, you'll learn how to design an intuitive, user-centered mobile…www.udacity.com(https://www.udacity.com/course/mobile-design-and-usability-for-ios--ud1034)
 
 
 
 
 2. 주변의 행동유도성(Affordance), 기표(signifier), 피드백(feedback)을 탐구하기
 
-이제 여러분이 돈 노르만의 지원환경(Affordance)와 기표(signifier)에 대한 Udacity 코스를 들었다고 생각하겠습니다. 
+이제 여러분이 돈 노르만의 지원환경(Affordance)와 기표(signifier)에 대한 Udacity 코스를 들었다고 생각하겠습니다. (https://classroom.udacity.com/courses/design101/lessons/300766461/concepts/4299486120923)
 
 행동유도성(Affordance): “사물의 성질과 그 물체의 용도를 알아챌 수 있게 하는 부분과의 관계를 말한다. 지원 환경(Affordance)는 반드시 지각가능해야하고, 실질적인 것으로 보여야 한다.” 즉, 행동유도성은 사물의 가능성를 말합니다. 예를 들어, 의자는 들고, 다른 사람에게 던지고, 끌고, 뒤집는 등의 행동이 가능하죠.
 
 기표(signifier): “사람에게 적합한 반응을 알려주는 소통 가능한 흔적이나 소리, 혹은 지각 가능한 표시를 말한다.” 즉, 기표는 사물이 무엇을 해야할 지를 알려주고, 사용자에게 행동유도성을 보다 명확히 전달합니다. 예를 들어, 의자에 달린 바퀴는 그 것을 끌 수 있다는 사실을 보여주죠. 의자의 모양은 그 것에 앉을 수 있다는 사실을 보여줍니다.
 
-우리가 사는 세상은 몇 세대에 걸쳐 우리 삶을 쉽게 만들기위해 노력한 창조적인 장인들로부터의 선물입니다. 때문에 우리 주변의 세상을 살펴보면, 우리가 평소에 알아채지 못하던 행동유도성, 피드백, 기표, 피드포워드와 시스템 이미지(돈 노르만의 강의에서 설명된)에 대한 많은 예시를 찾을 수 있습니다. 가능한 한 많은 사진을 찍으세요. 이것은 당신을 호기심 넘치게 만들어줄 것입니다. 인터랙션 디자이너가 되기 위해 가장 중요한 것이죠. 호기심은 혁신적인 제품을 만들기 위한 아이디어를 만드는데 도움을 줍니다.
+우리가 사는 세상은 몇 세대에 걸쳐 우리 삶을 쉽게 만들기위해 노력한 창조적인 장인들로부터의 선물입니다. 때문에 우리 주변의 세상을 살펴보면, 우리가 평소에 알아채지 못하던 행동유도성, 피드백, 기표, 피드포워드와 시스템 이미지(돈 노르만의 강의에서 설명된)(https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)에 대한 많은 예시를 찾을 수 있습니다. 가능한 한 많은 사진을 찍으세요. 이것은 당신을 호기심 넘치게 만들어줄 것입니다. 인터랙션 디자이너가 되기 위해 가장 중요한 것이죠. 호기심은 혁신적인 제품을 만들기 위한 아이디어를 만드는데 도움을 줍니다.
 
-돈 노르만이 어떤 말을 했는지 궁금하다면 ->
+돈 노르만이 어떤 말을 했는지 궁금하다면 ->(https://www.facebook.com/Vox/videos/855333381320932/)
 
 0*8_qOHkmlWGN0Na6_. a) 기표의 좋은 예: 클릭을 유도하는 구글 클래스룸의 버튼
 0*prAkVM4mGCNhyqzF. b) 이 문의 손잡이는 기표의 나쁜 예로,밀어야 하는지 열어야 하는지를 알려주지 못한다.
@@ -56,7 +56,7 @@ Mobile Design and Usability for iOS | UdacityIn this course, taught in collabora
 
 이 곳에서 UX 법칙에 대해 더 배울 수 있습니다.
 Home | Laws of UXLaws of UX is a collection of the maxims and principles that designers can consider when building user interfaces.lawsofux.com
-
+(https://lawsofux.com/)
 
 
 
@@ -71,9 +71,9 @@ Home | Laws of UXLaws of UX is a collection of the maxims and principles that de
 
 어떤 리서치는 연출된 스토리텔링, 불분명한 그룹, 롤플레잉, 극단적 사용자 인터뷰, 책상, 지갑, 서류가방 탐구 그리고 그 외에 아주 많은 방법들을 사용할 수 있습니다. 정말로요! 어떤 방법이 어디에 쓰여야하는지 알고싶다면, 제가 제일 좋아하는 책을 한 번 살펴보세요:
 
-Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and…Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective…www.amazon.com
+Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and…Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective…www.amazon.com(https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561)
 
-또한 댄 새퍼의 책에서도 리서치 방법론에 대해 읽을 수 있습니다.
+또한 댄 새퍼의 책(https://www.amazon.com/Designing-Interaction-Creating-Innovative-Applications/dp/0321643399)에서도 리서치 방법론에 대해 읽을 수 있습니다.
 
 
 
@@ -87,7 +87,7 @@ Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Inno
 	▪	그러면 포스트잇의 산이 쌓여있을 겁니다. 이제 데이터에서 의미있는 무언가를 만들어낼 시간입니다. 두 인사이트에서 연관성을 찾는 것에서 시작하죠. 예를 들어, 커피숍 리서치라면 두 인사이트는 이런 걸지도 모르죠. “분위기가 좋아요” “조용하고 차분한 음악을 틀어줘서 여기 일하러 매일 와요. 떠나고싶지 않아요.”
 	▪	계속 포스트잇을 분류하세요. 비슷한 인사이트를 찾아보세요. 아까의 커피숍 리서치를 예로 들면, 한 분류는 분명히 “커피숍 분위기”에 기반해있을거에요. 이렇게 패턴을 찾아나가는 겁니다.
 	▪	이제 한 분류당 한개의 선언을 만드세요. 예를 들어, “사람들은 분위기를 즐기러 XYZ 커피숍에 가는 것을 좋아한다.” 로 정리할 수 있겠죠. 이것이 정리된 인사이트가 될 수 있습니다.
-	▪	 이 모든 “선언”(정리된 인사이트들)을 특정한 형태의 질문--“만약 우리가...”--으로 변환시킬 때입니다. 예를 들어, “XYZ커피숍을 오는 사람들에게 더 좋은 분위기를 제공한다면 어떻게될까?” 같은 것이죠.  이 것은 편견을 줄이고 좀더 열린 생각으로 아이디어를 만들도록 도와줍니다. 더 알고싶다면 여기를 읽어보세요.
+	▪	 이 모든 “선언”(정리된 인사이트들)을 특정한 형태의 질문--“만약 우리가...”--으로 변환시킬 때입니다. 예를 들어, “XYZ커피숍을 오는 사람들에게 더 좋은 분위기를 제공한다면 어떻게될까?” 같은 것이죠.  이 것은 편견을 줄이고 좀더 열린 생각으로 아이디어를 만들도록 도와줍니다. 더 알고싶다면 여기를 읽어보세요.(https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
 
 댄 새퍼의 책에서 언급된 방법들을 더 찾아보세요.
 
@@ -102,7 +102,7 @@ Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Inno
 
 만약 당신이 동료 디자이너/개발자와 다툼한 적이 있다면, 그 상황에서 그들이 어떻게 느꼈을지 생각해보세요. 어떻게 느끼시나요?(스스로 공감하기) 그들의 의도와 당신의 의도는 무엇이었나요? 당신의 자아상과 그들의 자아상이 그 상황에 어떻게 반영되어있나요? 다음 번에는 어떻게 그 상황을 예방할 수 있을까요?
 
-공감에 대해 더 배우고싶다면 이 비디오를 시청하세요.
+공감에 대해 더 배우고싶다면 이 비디오를 시청하세요.(https://www.thersa.org/discover/videos/rsa-shorts/2013/12/Brene-Brown-on-Empathy)
 
 
 
@@ -111,11 +111,11 @@ Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Inno
 
 디테일을 신경쓰는 도중에도, 큰 그림을 인지마세요. 가끔 우리는 디테일을 파고드는 동안 그 것이 시스템의 다른 요소에 어떤 영향을 끼칠 지를 간과하고는 합니다. 언제 어떤 액션을 취하든, 한 구석은 시스템 구조로 물러나서 시스템에 무엇이 바뀌었는지, 어떤 요소가 그 것에 영향받았는지 분석하세요.
 
-시스템에 개입하기 위한 영향력의 핵심을 찾는 방법을 기술한 미도우의 시스템 안에서 생각하기 혹은 이 기사를 읽어보세요.
+시스템에 개입하기 위한 영향력의 핵심을 찾는 방법을 기술한 미도우의 시스템 안에서 생각하기(https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) 혹은 이 기사(http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)를 읽어보세요.
 
-Leverage Points: Places to Intervene in a System — The Donella Meadows ProjectBy Donella Meadows~ Folks who do systems analysis have a great belief in “leverage points.” These are places within a…donellameadows.org
+Leverage Points: Places to Intervene in a System — The Donella Meadows ProjectBy Donella Meadows~ Folks who do systems analysis have a great belief in “leverage points.” These are places within a…donellameadows.org(http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 
-WHO에서 어떻게 상대적으로 작은 문제를 해결하면서 더 큰 문제를 만들어버렸는지를 설명하는 이 비디오를  보세요.
+WHO에서 어떻게 상대적으로 작은 문제를 해결하면서 더 큰 문제를 만들어버렸는지를 설명하는 이 비디오(https://www.youtube.com/watch?v=17BP9n6g1F0)를  보세요.
 
 우리는 또한 유저 입장에서 생각하는 것이 얼마나 중요한지 이야기할 것입니다. 이제 디자인할 시간입니다! 사용자 개념적 모델은 아이디어를 구조 안으로 통합하는 좋은 방법입니다.
 
@@ -123,12 +123,12 @@ WHO에서 어떻게 상대적으로 작은 문제를 해결하면서 더 큰 문
 
 https://youtu.be/i_DWYYZD31w
 
-제 웹사이트의 두 개의 최신 프로젝트를 확인 하고 개념적 모델을 어떻게 쓰는지 알아보세요. 제 웹사이트는 시스템 디자인 프로젝트에 대한 다양한 타입을 보여줍니다. 어플리케이션 시스템, 피드백 컨트롤 시스템, 다이나믹 시스템, 자동 조작 시스템, 제품 시스템 등입니다.
+제 웹사이트(http://sohajsinghbrar.com/systems.html)의 두 개의 최신 프로젝트를 확인 하고 개념적 모델을 어떻게 쓰는지 알아보세요. 제 웹사이트는 시스템 디자인 프로젝트에 대한 다양한 타입을 보여줍니다. 어플리케이션 시스템, 피드백 컨트롤 시스템, 다이나믹 시스템, 자동 조작 시스템, 제품 시스템 등입니다.
 
 Sohaj Singh Brar | UX DesignerSohaj is an Experience Designer who has worked with clients like Monotype, Apple, Google, Universal Studios, Starbucks…sohajsinghbrar.com
 
 
-툴: 저는 시스템 맵을 디자인하기 위한 무료 툴인 Kumu를 씁니다, 맵 스크린 디자인을 보여주기 위해서는 Overflow를 씁니다.
+툴: 저는 시스템 맵을 디자인하기 위한 무료 툴인 Kumu(https://kumu.io/)를 씁니다, 맵 스크린 디자인을 보여주기 위해서는 Overflow(https://overflow.io/)를 씁니다.
 
 
 
@@ -137,12 +137,12 @@ Sohaj Singh Brar | UX DesignerSohaj is an Experience Designer who has worked wit
 
 프로토타입(prototype)하지 말고, 프리토타입(pretotype)하세요. 손을 더럽게 만드세요. 프로토타이핑을 가능한 한 빨리 시작하세요. 어떤 디자이너들은 심지어 프로토타이핑을 리서치와 함께 시작하기도 합니다. 화이트 보드에 포스트잇을 붙여놓고 “웹사이트 프로토타입” 이라고 할 수도 있습니다. 문제 없습니다! 중요한건, 퀄리티는 이 시점에서 중요한 것이 아니라는 겁니다. 왜냐하면 첫번째 시안은 언제나 틀리기 마련이니까요. 하지만 빠르고 비싸지 않게 진짜 대응을 할 수 있다는게 중요합니다. 아이디어를 테스트하는 가장 싸고 효과적인 방법입니다.
 
-이론적으로, 인터랙션 디자인은 이중 다이아몬드 프로세스를 따라갑니다. 하지만 현실에선 그 것보다 훨씬 반응적인 프로세스입니다. 따라서,  성공적인 제품을 위한 비밀의 주문은 이겁니다:
+이론적으로, 인터랙션 디자인은 이중 다이아몬드 프로세스(https://uxdesign.cc/how-to-solve-problems-applying-a-uxdesign-designthinking-hcd-or-any-design-process-from-scratch-v2-aa16e2dd550b)를 따라갑니다. 하지만 현실에선 그 것보다 훨씬 반응적인 프로세스입니다. 따라서,  성공적인 제품을 위한 비밀의 주문은 이겁니다:
 
 1*uGnMYfzbATFDRh5fA6qchA.jpeg
 무언가 만들면서 거기서 배우세요. 그리고 만든 것에서 무언가를 배우고 배운 것을 통해 다시만드세요. 그리고...
 
-프로토타이핑에 대한 스코트 클레이머의 무료 코스인 페이퍼 프로토타입과 프로토타이핑의 힘 강연 비디오를 보세요.
+프로토타이핑에 대한 스코트 클레이머의 무료 코스인 페이퍼 프로토타입(https://www.coursera.org/learn/human-computer-interaction/lecture/78yeB/storyboards-paper-prototypes-and-mockups)과 프로토타이핑의 힘(https://www.coursera.org/learn/human-computer-interaction/lecture/25EPu/the-power-of-prototyping) 강연 비디오를 보세요.
 
 당신이 쓸 수 있는 수많은 툴들이 있습니다. 종이와 펜(추천합니다.), 스케치, 인비전, 스튜디오, 프레이머(제가 가장 좋아하는 것입니다.), 피그마, 프로토.아이오, 어도비 XD, 마블,  UX핀, 키노트
 
@@ -159,10 +159,11 @@ Sohaj Singh Brar | UX DesignerSohaj is an Experience Designer who has worked wit
 
 게릴라 테스팅에 대해 설명한 이 기사를 읽어보세요:
 
-A Guide to the Art of Guerrilla UX TestingResearch and testing are great things — they give design teams the ability to inform their designs with reality…medium.springboard.com
+A Guide to the Art of Guerrilla UX TestingResearch and testing are great things — they give design teams the ability to inform their designs with reality…medium.springboard.com(https://medium.springboard.com/a-guide-to-the-art-of-guerrilla-ux-testing-69a1411d34fb)
 
 
-좀 오래됐지만, 간단한 테스트를 어떻게 만드는가에 대한 제콥 닐슨의 이 비디오도 시청해보세요.
+
+좀 오래됐지만, 간단한 테스트를 어떻게 만드는가에 대한 제콥 닐슨의 이 비디오(https://www.youtube.com/watch?v=r0A6IW2TFFI)도 시청해보세요.
 
 
 
@@ -173,15 +174,15 @@ A Guide to the Art of Guerrilla UX TestingResearch and testing are great things�
 
 우리(사용자, 디자이너, 주주, 모든 사람들, 혹은 외계인도..)의 뇌는 스토리텔링이란 강력한 도구를 통해 생각을 표출하도록 짜여저있습니다. 이 비밀의 힘은 연구원, 전략가 그리고 디자이너들에게 필요합니다. 우리(인터랙션 디자이너)가 리서치, 시각 이미지 제작, 프로토타입 디자인, 비디오 제적, 혹은 클라이언트 앞에서 포트폴리오 발표를 하고 있을 때, 우리는 언제나.. 항상 좋은 스토리--청중이 연관될 수 있고, 좋은 ‘충돌’을 그들 머릿속에서 일으킬 수 있고, 그들을 놀래키고 그들의 관점을 완전히 바꿀 수 있는--를 이야기해야합니다. 다음 블로그 포스트에서 스토리텔링에 대해 더 이야기하도록 하겠습니다.
 
-데이비드 J 필립의 스토리텔링에 관한 놀라운 대화를 확인하세요.
+데이비드 J 필립의 스토리텔링에 관한 놀라운 대화(https://youtu.be/Nj-hdQMa3uA)를 확인하세요.
 
-그리고 영화제작자 앤드류 스탠톤의 ‘토이스토리’에 관한 이 테드 토크쇼를 시청하세요.
+그리고 영화제작자 앤드류 스탠톤의 ‘토이스토리’에 관한 이 테드 토크쇼(https://www.youtube.com/watch?v=KxDwieKpawg)를 시청하세요.
 
 자, 어떻게 논픽션 업무의 삶에서 스토리를 이야기할 수 있을까요?
 
 잭 하트가 쓴 스토리 크라프트라는 놀라운 책과 주인공의 여정 이라는 책을 읽어보세요. 여기 내러티브 곡선을 쌓는 여러가지 방법을 기술한 멋진 기사도 있습니다.
 
-Sparkol - Engage Your AudienceA good public speaker takes their audience on a journey, leaving them feeling inspired and motivated. But structuring…www.sparkol.com
+Sparkol - Engage Your AudienceA good public speaker takes their audience on a journey, leaving them feeling inspired and motivated. But structuring…www.sparkol.com(https://www.sparkol.com/en/Blog/8-Classic-storytelling-techniques-for-engaging-presentations)
 
 
 
